@@ -1,0 +1,9 @@
+streamlit
+whisper
+torch
+transformers
+gtts
+sounddevice
+scipy
+numpy
+ffmpeg-python
