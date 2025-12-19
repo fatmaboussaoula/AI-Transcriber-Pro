@@ -4,7 +4,7 @@ A lightweight multilingual audio transcription, summarization and TTS system for
 
 \## Author
 
-Fatma Boussaoula  
+Fatma Boussaoula  , Sayka Chaima , Rachida Laaguid
 
 Faculty of Sciences – Ibn Zohr University  
 
